@@ -1,5 +1,5 @@
 outs:
-- md5: d41d8cd98f00b204e9800998ecf8427e
-  size: 0
+- md5: 6fab9968db49e9609f993f10f8f13d2e
+  size: 45
   hash: md5
   path: data.txt
